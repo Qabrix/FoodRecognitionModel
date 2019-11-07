@@ -126,10 +126,10 @@ Myślę, że z większą liczbą sampli, rozdzielczością obrazów, lub innym p
 ## Kilka przykładowych predictów:
 
 **same zdrowe:**
-https://i.imgur.com/uqhcSxC.png  
+![](https://i.imgur.com/uqhcSxC.png)    
 
 **same niezdrowe:**
-https://i.imgur.com/E06QTeV.png
+![](https://i.imgur.com/E06QTeV.png)  
 
 
 
