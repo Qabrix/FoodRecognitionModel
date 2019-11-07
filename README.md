@@ -128,7 +128,7 @@ Myślę, że z większą liczbą sampli, rozdzielczością obrazów, lub innym p
 **same zdrowe:**
 ![](https://i.imgur.com/uqhcSxC.png)    
 
-**same niezdrowe:**
+**same niezdrowe:**  
 ![](https://i.imgur.com/E06QTeV.png)  
 
 
